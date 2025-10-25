@@ -36,9 +36,9 @@ Computer Architecture: Processing, Memory and I/O
 
 Optional: *How Computers Work.* Parts 1-5.
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - Hardware Category Page
+[PC Webopedia](http://www.pcwebopedia.com/) - Hardware Category Page
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - PC Definition and Links
+[PC Webopedia](http://www.pcwebopedia.com/) - PC Definition and Links
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -46,9 +46,9 @@ Optional: *How Computers Work.* Parts 1-5.
 Computer Representations; Compression
 {{< tdclose >}}{{< tdopen >}}
 
-Optional: Blelloch, Guy E. *Introduction to Data Compression*. Carnegie Mellon University, 2001. Available online at Carnegie Mellon University's {{% resource_link "46bb44dc-3d54-4aaa-b588-c56f03806f58" "School of Computer Science" %}}.
+Optional: Blelloch, Guy E. *Introduction to Data Compression*. Carnegie Mellon University, 2001. Available online at Carnegie Mellon University's [School of Computer Science](http://www.cs.cmu.edu/).
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - Data Formats Category Page   
+[PC Webopedia](http://www.pcwebopedia.com/) - Data Formats Category Page   
 Terms to look up: binary, floating-point numbers, character set, ASCII, HTML, bitmap, Postscript, PDF, data compression, MPEG
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -57,9 +57,9 @@ Terms to look up: binary, floating-point numbers, character set, ASCII, HTML, bi
 Operating Systems
 {{< tdclose >}}{{< tdopen >}}
 
-Optional: *Introduction to Operating Systems.* Part of: Mohr, James. {{% resource_link "196afa26-cc20-4537-b21b-75a9c73dfa3a" "The Linux Tutorial" %}}, 2003.
+Optional: *Introduction to Operating Systems.* Part of: Mohr, James. [The Linux Tutorial](http://www.linux-tutorial.info/), 2003.
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - Operating Systems Category Page   
+[PC Webopedia](http://www.pcwebopedia.com/) - Operating Systems Category Page   
 Terms to look up: operating systems, multitasking, virtual memory, file management system, file allocation table, Windows, Linux
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -70,7 +70,7 @@ Software Development
 
 Gibbs, W. W. *Software's Chronic Crisis*. In *Scientific American.* September 1994, pp. 86-95.
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - Programming Languages Category Page   
+[PC Webopedia](http://www.pcwebopedia.com/) - Programming Languages Category Page   
 Terms to look up: programming language, compiler, interpreter, Java
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -83,7 +83,7 @@ Relational Databases; Database Queries Using SQL
 
 Elmasri, and Navathe. *Fundamentals of Database Systems.* Benjamin/Cummings, 1989, Chapter 7 (plus pp. 143-144).
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - Databases Category Page
+[PC Webopedia](http://www.pcwebopedia.com/) - Databases Category Page
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -115,7 +115,7 @@ Fitzgerald, and Dennis. *Business Data Communications and Networking.* 6th ed. W
 
 Optional: Dodd, Annabel Z. *Basic Telecom Concepts*. Chapter 1 in *The Essential Guide to Telecommunications.* Prentice Hall, 1999.
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - Networks Category Page
+[PC Webopedia](http://www.pcwebopedia.com/) - Networks Category Page
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -137,7 +137,7 @@ Wide Area Networks; The Internet
 
 Fitzgerald, and Dennis. *Business Data Communications and Networking.* 6th ed. Wiley, 1999, pp. 30-33, 164-189.
 
-Optional: An introductory (but fun!) tutorial on how the Internet works is available: Tyson, Jeff. *How Internet Infrastructure Works* at {{% resource_link "5554c3ad-1e4a-4e80-b562-6c96081bcb0a" "HowStuffWorks" %}}. The same site contains lots of interesting tutorials on related concepts as well.
+Optional: An introductory (but fun!) tutorial on how the Internet works is available: Tyson, Jeff. *How Internet Infrastructure Works* at [HowStuffWorks](http://www.howstuffworks.com/). The same site contains lots of interesting tutorials on related concepts as well.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -157,9 +157,9 @@ Orfali, R., et. al. *Client/Server Survival Guide.* 3rd ed. Wiley, 1999, Chapte
 
 Sadoski, Darleen. *Client/Server Software Architectures--An Overview*. Carnegie Mellon University, 2004.
 
-Optional: Milojicic, Dejan S., et. al. *Peer-to-Peer Computing*. Hewlett-Packard Laboratories Palo Alto, 2002.  Paper No. HPL-2002-57. Available at the {{% resource_link "78e15e0a-fb79-4549-b6eb-c6baa0b118b9" "HP Labs" %}} web site.
+Optional: Milojicic, Dejan S., et. al. *Peer-to-Peer Computing*. Hewlett-Packard Laboratories Palo Alto, 2002.  Paper No. HPL-2002-57. Available at the [HP Labs](http://www.hpl.hp.com/) web site.
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - Client/Server Computing Category Page   
+[PC Webopedia](http://www.pcwebopedia.com/) - Client/Server Computing Category Page   
 Terms to look up: client/server architecture, fat client, thin client, two-tier, three-tier, middleware
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -172,10 +172,10 @@ Zimmerman, Phil. *An Introduction to Cryptography*. Included in freeware docu
 
 Behar, R. *Who's Reading Your E-Mail*. *Fortune.* February 3, 1997, 57-70.
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - Security Category Page   
+[PC Webopedia](http://www.pcwebopedia.com/) - Security Category Page   
 Terms to look up: biometrics, virus, macro virus, antivirus program
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - Encryption Category Page   
+[PC Webopedia](http://www.pcwebopedia.com/) - Encryption Category Page   
 Terms to look up: symmetric-key cryptography, DES, public-key encryption, RSA, Pretty Good Privacy
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -188,7 +188,7 @@ Zimmerman, Phil. *An Introduction to Cryptography*. Included in freeware docu
 
 *Introduction to SSL*. Available on the Web.
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - Encryption Category Page   
+[PC Webopedia](http://www.pcwebopedia.com/) - Encryption Category Page   
 Terms to look up: authentication, digital signature, digital certificate, PKI, SSL, digital cash, smart card
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -203,7 +203,7 @@ Optional: Wright, R. *The Man Who Invented the Web*. *Time*, May 19, 1997.
 
 Optional: *Technology Forecast.* pp. 545-592.
 
-{{% resource_link "68de5802-b36f-49aa-9341-ca0a831453c5" "PC Webopedia" %}} - World Wide Web Category Page
+[PC Webopedia](http://www.pcwebopedia.com/) - World Wide Web Category Page
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **eBusiness Applications**
